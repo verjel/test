@@ -166,6 +166,10 @@ class Set extends Model {
 		} else {
 			return false;
 		} 
+	} 
+	
+	function test() {
+	
 	}
 }
 ?>
