@@ -165,7 +165,7 @@ class Set extends Model {
 			return true;
 		} else {
 			return false;
-		}
+		} 
 	}
 }
 ?>
