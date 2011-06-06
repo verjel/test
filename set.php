@@ -172,5 +172,8 @@ class Set extends Model {
 		echo 'bang';
 	}
 	
+	function click_nothing() {
+	
+	}
 }
 ?>
