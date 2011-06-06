@@ -167,13 +167,5 @@ class Set extends Model {
 			return false;
 		}
 	}
-	
-	function click_all() {
-		echo 'bang';
-	}
-	
-	function click_nothing() {
-	
-	}
 }
 ?>
